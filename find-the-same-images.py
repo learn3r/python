@@ -2,8 +2,8 @@ import os.path
 import cv2
 import itertools
 
-DATA_PATH1 = "data1"
-DATA_PATH2 = "data2"
+DATA_PATH1 = "images/data1"
+DATA_PATH2 = "images/data2"
 
 def main():
 	curr_path = os.getcwd()
